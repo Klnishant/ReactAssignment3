@@ -1,0 +1,14 @@
+#GalleryWraper{
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-size: 60px;
+    background: linear-gradient(to right, #ff7308, #e2edfc,rgb(2, 114, 2));
+  -webkit-background-clip: text; /* For Safari */
+  background-clip: text;
+  color: transparent;
+}

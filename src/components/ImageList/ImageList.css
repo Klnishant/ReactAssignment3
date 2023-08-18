@@ -1,0 +1,21 @@
+#imageWrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+#mainImage{
+    display: flex;
+    flex-basis: 25%;
+    flex-wrap: wrap;
+
+}
+
+button{
+    padding: 5px 10px;
+    margin-left: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}

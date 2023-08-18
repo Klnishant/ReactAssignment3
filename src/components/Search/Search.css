@@ -1,0 +1,17 @@
+#SearchWrapper{
+    margin: 0 auto;
+    display: flex;
+    width: 600px;
+    justify-content: center;
+    background: linear-gradient(to right, #ff7308, #d1e6fe,rgb(2, 114, 2));
+    padding: 2px;
+    border-radius: 40px;
+}
+
+#SearchBox{
+    padding: 1.5rem;
+    width: 600px;
+    border-radius: 40px;
+    background-color: rgb(214, 243, 255);
+    border: 1px transparent;
+}

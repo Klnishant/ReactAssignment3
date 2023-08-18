@@ -1,0 +1,17 @@
+img{
+    height: 250px;
+    border-radius: 15px;
+}
+
+#images{
+    display: flex;
+    flex-basis: 25%;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+img:hover{
+    cursor: pointer;
+}

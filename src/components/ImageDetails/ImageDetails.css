@@ -1,0 +1,44 @@
+#mainBody{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+#container{
+    width: auto;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 2rem;
+    background-color: rgb(37, 37, 96);
+    padding-right: 50px;
+}
+
+#description{
+    width: 600px;
+}
+
+#title{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+}
+
+#des{
+    color: white;
+    font-size: 25px;
+}
+
+#SingleImage{
+    display: inline-block;
+    border-radius: 15px;
+    box-shadow: 2px 2px 1px  rgb(30, 134, 198);
+    box-sizing: border-box;
+}
+
+#largeImage{
+    height: 400px;
+}
